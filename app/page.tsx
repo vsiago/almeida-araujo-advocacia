@@ -763,7 +763,7 @@ export default function Home() {
               >
                 <div className="relative h-[500px] rounded-lg overflow-hidden shadow-xl">
                   <Image
-                    src="/images/office-interior.png"
+                    src="/esc-almeida.jpg"
                     alt="Escritório Almeida e Araujo Advocacia"
                     fill
                     className="object-cover"
